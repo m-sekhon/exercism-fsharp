@@ -1,3 +1,3 @@
 # exercism-fsharp
 
-_My repo for F# exercises in Exercism_ 
+My repo for F# exercises in Exercism
